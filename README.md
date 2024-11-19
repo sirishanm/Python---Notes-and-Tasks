@@ -1,1 +1,3 @@
-# Python---Notes-and-Tasks
+### Python - Notes and Tasks
+
+Introduction to python
