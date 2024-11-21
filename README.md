@@ -25,6 +25,8 @@ Introduction to python
 
 **Python - Print Statement** - The function is a built-in function used to display output to the console (standard output). It can be used to display strings, variables, or the result of expressions.
 
-**Python - Variables, Data Types, Typecasting** - This file contains Python basics notes on variables, data types, and type casting.
+**Python - Operators** - This notebook covering Python operators, interpreter vs compiler, id() function, variables vs constants, number system conversion, swapping variables, math module, and user input.
+
+**Python - Variables, Data Types, Typecasting** - This notebook contains Python basics notes on variables, data types, and type casting.
 
 **TASK - Raw data to Clean data** - Cleaning raw data by splitting address and timestamp, then exporting clean data to Excel.
